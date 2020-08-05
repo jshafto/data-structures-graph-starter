@@ -1,5 +1,14 @@
 # Graph Project
+Completed as part of the App Academy curriculum. Implementation by Juliet Shafto.
 
+## Project Status
+- [x] Breadth first search
+- [x] Max Value
+- [ ] Number of regions
+- [ ] Friends of
+- [ ] Course schedule (LeetCode 207)
+
+## Project Description
 This project contains a skeleton for you to implement some graph functionality.
 This is a test-driven project. Run the tests and read the top-most error. If
 it's not clear what is failing, open the **test/test.js** file to figure out
