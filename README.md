@@ -4,7 +4,7 @@ Completed as part of the App Academy curriculum. Implementation by Juliet Shafto
 ## Project Status
 - [x] Breadth first search
 - [x] Max Value
-- [ ] Number of regions
+- [x] Number of regions
 - [ ] Friends of
 - [ ] Course schedule (LeetCode 207)
 
