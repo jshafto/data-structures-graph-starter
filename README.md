@@ -5,8 +5,8 @@ Completed as part of the App Academy curriculum. Implementation by Juliet Shafto
 - [x] Breadth first search
 - [x] Max Value
 - [x] Number of regions
-- [ ] Friends of
-- [ ] Course schedule (LeetCode 207)
+- [x] Friends of
+- [x] Course schedule (LeetCode 207)
 
 ## Project Description
 This project contains a skeleton for you to implement some graph functionality.
